@@ -15,7 +15,7 @@ I am currently a student at IIIT Nagpur ,a WEB2 and WEB3 enthusiast <br><br>Curr
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)username=sarthak3111&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sarthak3111&icon=0&color=0)](https://visitcount.itsvg.in)
