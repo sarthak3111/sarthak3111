@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am currently a student at IIIT Nagpur ,a WEB2 and WEB3 enthusiast <br><br>Currently Learning:<br>Java script<br><br>Reach me :<br>sarthakcodes08@gmail.com<br><br>
+I am currently a student at IIIT Nagpur ,a WEB2 and WEB3 enthusiast <br><br>Currently Learning:<br>smart contracting<br><br>Reach me :<br>sarthakcodes08@gmail.com<br><br>
 
 
 ## 🌐 Socials:
